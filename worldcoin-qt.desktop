@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Worldcoin Core
+Comment=Desktop wallet for Worldcoin
+Exec=worldcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/global.worldcoin.worldcoin-core.svg
+MimeType=x-scheme-handler/worldcoin;
+Categories=Office;Finance;
+StartupWMClass=Worldcoin-qt
